@@ -28,6 +28,10 @@ US
 - no federal AI law; mostly state level
 - Proposed bipartisan AI Whistleblower Protection Act introduced but still in flight
 - California SB 53 mandates whistleblower protections; most targetted protections for frontier lab safety; non gag clauses; mandates internal anonymous channels for whistleblowing
+-- https://sb53.info/index; CHAPTER 5.1. Whistleblower Protections: Catastrophic Risks in AI Foundation Models
+- NY RAISE Act includes section '1422. PROTECTIONS, RIGHTS AND OBLIGATIONS OF EMPLOYEES.'
+-- https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A; 
+-- "A LARGE DEVELOPER  OR  A  CONTRACTOR OR SUBCONTRACTOR OF A LARGE DEVELOPER SHALL NOT PREVENT AN EMPLOYEE FROM DISCLOSING, OR THREATENING TO DISCLOSE,  OR RETALIATE AGAINST AN EMPLOYEE FOR DISCLOSING OR THREATENING TO DISCLOSE, INFORMATION  TO  THE  LARGE  DEVELOPER  OR  THE ATTORNEY GENERAL, IF THE EMPLOYEE HAS REASONABLE CAUSE TO  BELIEVE  THAT  THE  LARGE  DEVELOPER'S ACTIVITIES  POSE  AN  UNREASONABLE OR SUBSTANTIAL RISK OF CRITICAL HARM, REGARDLESS OF THE EMPLOYER'S COMPLIANCE WITH APPLICABLE LAW."
 
 Helpful Links
 https://ai-law-tracker.com/
