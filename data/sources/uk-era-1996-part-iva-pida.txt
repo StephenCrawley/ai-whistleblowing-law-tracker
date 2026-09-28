@@ -1,0 +1,436 @@
+# UK Employment Rights Act 1996 - Part IVA (ss 43A-43L, inserted by the Public Interest Disclosure Act 1998), s 47B, s 103A
+# Source: https://www.legislation.gov.uk/ukpga/1996/18/part/IVA ; /section/47B ; /section/103A
+# Retrieved: 2026-09-28
+# Verbatim revised text; legislation.gov.uk states it is up to date with changes in force on or before 28 September 2026. Textual-amendment annotations kept. Extends to England, Wales and Scotland (NI has separate legislation).
+
+[F1Part IVAE+W+S Protected disclosures
+
+Textual Amendments
+
+F1Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by 1998 c. 23, s. 1; S.I. 1999/1547, art. 2
+
+43A Meaning of “protected disclosure”.E+W+S
+
+In this Act a “ protected disclosure ” means a qualifying disclosure (as defined by section 43B) which is made by a worker in accordance with any of sections 43C to 43H.
+
+43B Disclosures qualifying for protection.E+W+S
+
+(1) In this Part a “ qualifying disclosure ” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, [F2 is made in the public interest and ] tends to show one or more of the following—
+
+(a)that a criminal offence has been committed, is being committed or is likely to be committed,
+
+(b)that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+
+(c)that a miscarriage of justice has occurred, is occurring or is likely to occur,
+
+(d)that the health or safety of any individual has been, is being or is likely to be endangered,
+
+[F3(da)that sexual harassment has occurred, is occurring or is likely to occur,]
+
+(e)that the environment has been, is being or is likely to be damaged, or
+
+(f)that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.
+
+(2)For the purposes of subsection (1), it is immaterial whether the relevant failure occurred, occurs or would occur in the United Kingdom or elsewhere, and whether the law applying to it is that of the United Kingdom or of any other country or territory.
+
+(3)A disclosure of information is not a qualifying disclosure if the person making the disclosure commits an offence by making it.
+
+(4)A disclosure of information in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality as between client and professional legal adviser) could be maintained in legal proceedings is not a qualifying disclosure if it is made by a person to whom the information had been disclosed in the course of obtaining legal advice.
+
+(5) In this Part “ the relevant failure ”, in relation to a qualifying disclosure, means the matter falling within paragraphs (a) to (f) of subsection (1).
+
+Textual Amendments
+
+F2Words in s. 43B(1) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 17, 103(2) (with s. 24(6))
+
+F3S. 43B(1)(da) inserted (6.4.2026) by Employment Rights Act 2025 (c. 36), ss. 23(2), 159(3); S.I. 2026/323, reg. 3(1)(2)
+
+43C Disclosure to employer or other responsible person.E+W+S
+
+(1) A qualifying disclosure is made in accordance with this section if the worker makes the disclosure F4 ...—
+
+(a)to his employer, or
+
+(b)where the worker reasonably believes that the relevant failure relates solely or mainly to—
+
+(i)the conduct of a person other than his employer, or
+
+(ii)any other matter for which a person other than his employer has legal responsibility,
+
+to that other person.
+
+(2)A worker who, in accordance with a procedure whose use by him is authorised by his employer, makes a qualifying disclosure to a person other than his employer, is to be treated for the purposes of this Part as making the qualifying disclosure to his employer.
+
+Textual Amendments
+
+F4Words in s. 43C(1) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(1)(a), 103(2) (with s. 24(6))
+
+43D Disclosure to legal adviser.E+W+S
+
+A qualifying disclosure is made in accordance with this section if it is made in the course of obtaining legal advice.
+
+43E Disclosure to Minister of the Crown.E+W+S
+
+A qualifying disclosure is made in accordance with this section if—
+
+(a)the worker’s employer is—
+
+(i)an individual appointed under any enactment [F5(including any enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament)] by a Minister of the Crown [F5or a member of the Scottish Executive], or
+
+(ii)a body any of whose members are so appointed, and
+
+(b) the disclosure is made F6 ... to a Minister of the Crown [F5 or a member of the Scottish Executive ] .
+
+Textual Amendments
+
+F5Words in s. 43E inserted (27.7.2000) by S.I. 2000/2040, art. 2, Sch. Pt. I para. 19(2)(3) (with art. 3)
+
+F6Words in s. 43E(b) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(1)(b), 103(2) (with s. 24(6))
+
+43F Disclosure to prescribed person.E+W+S
+
+(1)A qualifying disclosure is made in accordance with this section if the worker—
+
+(a) makes the disclosure F7 ... to a person prescribed by an order made by the Secretary of State for the purposes of this section, and
+
+(b)reasonably believes—
+
+(i)that the relevant failure falls within any description of matters in respect of which that person is so prescribed, and
+
+(ii)that the information disclosed, and any allegation contained in it, are substantially true.
+
+(2)An order prescribing persons for the purposes of this section may specify persons or descriptions of persons, and shall specify the descriptions of matters in respect of which each person, or persons of each description, is or are prescribed.
+
+Textual Amendments
+
+F7Words in s. 43F(1)(a) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(1)(c), 103(2) (with s. 24(6))
+
+[F843FAPrescribed persons: duty to report on disclosures of informationE+W+S
+
+(1)The Secretary of State may make regulations requiring a person prescribed for the purposes of section 43F to produce an annual report on disclosures of information made to the person by workers.
+
+(2)The regulations must set out the matters that are to be covered in a report, but must not require a report to provide detail that would enable either of the following to be identified—
+
+(a)a worker who has made a disclosure;
+
+(b)an employer or other person in respect of whom a disclosure has been made.
+
+(3)The regulations must make provision about the publication of a report, and such provision may include (but is not limited to) any of the following requirements—
+
+(a)to send the report to the Secretary of State for laying before Parliament;
+
+(b)to include the report in another report or in information required to be published by the prescribed person;
+
+(c)to publish the report on a website.
+
+(4)The regulations may make provision about the time period within which a report must be produced and published.
+
+(5)Regulations under subsections (2) to (4) may make different provision for different prescribed persons.]
+
+Textual Amendments
+
+F8S. 43FA inserted (1.1.2016) by Small Business, Enterprise and Employment Act 2015 (c. 26), ss. 148(2), 164(1); S.I. 2015/2029, reg. 2(a)
+
+43G Disclosure in other cases.E+W+S
+
+(1)A qualifying disclosure is made in accordance with this section if—
+
+F9( a ). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b)[F10the worker] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+
+(c)he does not make the disclosure for purposes of personal gain,
+
+(d)any of the conditions in subsection (2) is met, and
+
+(e)in all the circumstances of the case, it is reasonable for him to make the disclosure.
+
+(2)The conditions referred to in subsection (1)(d) are—
+
+(a)that, at the time he makes the disclosure, the worker reasonably believes that he will be subjected to a detriment by his employer if he makes a disclosure to his employer or in accordance with section 43F,
+
+(b)that, in a case where no person is prescribed for the purposes of section 43F in relation to the relevant failure, the worker reasonably believes that it is likely that evidence relating to the relevant failure will be concealed or destroyed if he makes a disclosure to his employer, or
+
+(c)that the worker has previously made a disclosure of substantially the same information—
+
+(i)to his employer, or
+
+(ii)in accordance with section 43F.
+
+(3)In determining for the purposes of subsection (1)(e) whether it is reasonable for the worker to make the disclosure, regard shall be had, in particular, to—
+
+(a)the identity of the person to whom the disclosure is made,
+
+(b)the seriousness of the relevant failure,
+
+(c)whether the relevant failure is continuing or is likely to occur in the future,
+
+(d)whether the disclosure is made in breach of a duty of confidentiality owed by the employer to any other person,
+
+(e)in a case falling within subsection (2)(c)(i) or (ii), any action which the employer or the person to whom the previous disclosure in accordance with section 43F was made has taken or might reasonably be expected to have taken as a result of the previous disclosure, and
+
+(f)in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the worker complied with any procedure whose use by him was authorised by the employer.
+
+(4)For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information as that disclosed by a previous disclosure as mentioned in subsection (2)(c) even though the subsequent disclosure extends to information about action taken or not taken by any person as a result of the previous disclosure.
+
+Textual Amendments
+
+F9S. 43G(1)(a) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(2)(a), 103(2) (with s. 24(6))
+
+F10Words in s. 43G(1)(b) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(2)(b), 103(2) (with s. 24(6))
+
+43H Disclosure of exceptionally serious failure.E+W+S
+
+(1)A qualifying disclosure is made in accordance with this section if—
+
+F11( a ). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b)[F12the worker] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+
+(c)he does not make the disclosure for purposes of personal gain,
+
+(d)the relevant failure is of an exceptionally serious nature, and
+
+(e)in all the circumstances of the case, it is reasonable for him to make the disclosure.
+
+(2)In determining for the purposes of subsection (1)(e) whether it is reasonable for the worker to make the disclosure, regard shall be had, in particular, to the identity of the person to whom the disclosure is made.
+
+Textual Amendments
+
+F11S. 43H(1)(a) omitted (25.6.2013) by virtue of Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(3)(a), 103(2) (with s. 24(6))
+
+F12Words in s. 43H(1)(b) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 18(3)(b), 103(2) (with s. 24(6))
+
+43J Contractual duties of confidentiality.E+W+S
+
+(1)Any provision in an agreement to which this section applies is void in so far as it purports to preclude the worker from making a protected disclosure.
+
+(2)This section applies to any agreement between a worker and his employer (whether a worker’s contract or not), including an agreement to refrain from instituting or continuing any proceedings under this Act or any proceedings for breach of contract.
+
+43K Extension of meaning of “worker” etc. for Part IVA. E+W+S
+
+(1) For the purposes of this Part “ worker ” includes an individual who is not a worker as defined by section 230(3) but who—
+
+(a)works or worked for a person in circumstances in which—
+
+(i)he is or was introduced or supplied to do that work by a third person, and
+
+(ii)the terms on which he is or was engaged to do the work are or were in practice substantially determined not by him but by the person for whom he works or worked, by the third person or by both of them,
+
+(b)contracts or contracted with a person, for the purposes of that person’s business, for the execution of work to be done in a place not under the control or management of that person and would fall within section 230(3)(b) if for “personally” in that provision there were substituted “(whether personally or otherwise)”,
+
+[F13( ba )works or worked as a person performing services under a contract entered into by him with [F14NHS England] [F15under [F16section 83(2), 84, 92, 100, 107, 115(4), 117 or 134 of, or Schedule 12 to,] the National Health Service Act 2006 or with a Local Health Board under [F17section 41(2)(b), 42, 50, 57, 64 or 92 of, or Schedule 7 to,] the National Health Service (Wales) Act 2006],]
+
+[F18( bb )works or worked as a person performing services under a contract entered into by him with a Health Board under section 17J [F19or 17Q] of the National Health Service (Scotland) Act 1978,]
+
+(c)[F20works or worked as a person providing services] in accordance with arrangements made—
+
+(i)by [F21[F14NHS England] [F22under section 126 of the National Health Service Act 2006,] or][F23Local Health Board] under [F24section 71 or 80 of the National Health Service (Wales) Act 2006], or
+
+( ii ) by a Health Board under section [F252C, 17AA, 17C,] F26 . . . 25, 26 or 27 of the National Health Service (Scotland) Act 1978, or
+
+[F27(cb) is or was provided with work experience provided pursuant to a course of education or training approved by, or under arrangements with, the Nursing and Midwifery Council in accordance with article 15(6)(a) of the Nursing and Midwifery Order 2001 (S.I. 2002/253), or]
+
+(d)is or was provided with work experience provided pursuant to a training course or programme or with training for employment (or with both) otherwise than—
+
+(i)under a contract of employment, or
+
+(ii)by an educational establishment on a course run by that establishment;
+
+and any reference to a worker’s contract, to employment or to a worker being “ employed ” shall be construed accordingly.
+
+(2) For the purposes of this Part “ employer ” includes—
+
+(a)in relation to a worker falling within paragraph (a) of subsection (1), the person who substantially determines or determined the terms on which he is or was engaged,
+
+[F28(aa)in relation to a worker falling within paragraph (ba) of that subsection, [F29[F14NHS England], or the] Local Health Board referred to in that paragraph,]
+
+[F30(ab)in relation to a worker falling within paragraph (bb) of that subsection, the Health Board referred to in that paragraph,]
+
+(b)in relation to a worker falling within paragraph (c) of that subsection, [F31NHS England or the board] referred to in that paragraph, and
+
+(c)in relation to a worker falling within paragraph [F32(cb) or] (d) of that subsection, the person providing the work experience or training.
+
+(3) In this section “ educational establishment ” includes any university, college, school or other educational establishment.
+
+[F33(4) The Secretary of State may by order make amendments to this section as to what individuals count as “ workers ” for the purposes of this Part (despite not being within the definition in section 230(3)).
+
+F33( 5 )An order under subsection (4) may not make an amendment that has the effect of removing a category of individual unless the Secretary of State is satisfied that there are no longer any individuals in that category.]
+
+Textual Amendments
+
+F13S. 43K(1)(ba) inserted (1.4.2004 for E.W.) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 184, 199(1)(4), Sch. 11 para. 65(2); S.I. 2004/288, art. 5(2)(x) (with transitional provision in art. 7(11)) (as amended by S.I. 2004/866, S.I. 2004/1009 and S.I. 2005/2925); S.I. 2004/480, art. 4(2)(bb) (as amended by S.I. 2004/1019 and S.I. 2006/345)
+
+F14Words in s. 43K substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+
+F15Words in s. 43K(1)(ba) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 178(a) (with Sch. 3 Pt. 1)
+
+F16Words in s. 43K(1)(ba) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(2)(a), 103(2) (with s. 24(6))
+
+F17Words in s. 43K(1)(ba) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(2)(b), 103(2) (with s. 24(6))
+
+F18S. 43K(1)(bb) inserted (1.4.2004) by The Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 (S.I. 2004/957), art. 2, Sch. para. 8(a)(i)
+
+F19Words in s. 43K(1)(bb) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(3), 103(2) (with s. 24(6))
+
+F20Words in s. 43K(1)(c) substituted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(4)(a), 103(2) (with s. 24(6))
+
+F21Words in s. 43K(1)(c)(i) inserted (1.10.2002) by National Health Service Reform and Health Care Professions Act 2002 (c. 17), s. 2(5), Sch. 2 Pt. 2 para. 63; S.I. 2002/2478, arts. 2(1), 3(1)
+
+F22Words in s. 43K(1)(c)(i) inserted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 178(b)(i) (with Sch. 3 Pt. 1)
+
+F23Words in s. 43K(1)(c)(i) substituted (1.4.2007) by The References to Health Authorities Order 2007 (S.I. 2007/961), art. 3, Sch. {para. 27(2)}
+
+F24Words in s. 43K(1)(c)(i) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 8(2), Sch. 1 para. 178(b)(ii) (with Sch. 3 Pt. 1)
+
+F25Words in s. 43K(1)(c)(ii) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(4)(b), 103(2) (with s. 24(6))
+
+F26Word in s. 43K(1)(c)(ii) repealed (1.4.2004) by The Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 (S.I. 2004/957), art. 2, Sch. para. 8(a)(iii)
+
+F27S. 43K(1)(cb) inserted (6.4.2015) by The Protected Disclosures (Extension of Meaning of Worker) Order 2015 (S.I. 2015/491), arts. 1, 2(2)
+
+F28S. 43K(2)(aa) inserted (1.4.2004 for E.W.) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 184, 199(1)(4), Sch. 11 para. 65(3); S.I. 2004/288, art. 5(2)(x) (as amended by S.I. 2004/866, S.I. 2004/1009 and S.I. 2005/2925); S.I. 2004/480, art. 4(2)(bb) (as amended by S.I. 2004/1019 and S.I. 2006/345)
+
+F29Words in s. 43K(2)(aa) substituted (1.4.2013) by Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 73(c); S.I. 2013/160, art. 2(2) (with arts. 7-9)
+
+F30S. 43K(2)(ab) inserted (1.4.2004) by The Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 (S.I. 2004/957), art. 2, Sch. para. 8(b)
+
+F31Words in s. 43K(2)(b) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 5; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+
+F32Words in s. 43K(2)(c) inserted (6.4.2015) by The Protected Disclosures (Extension of Meaning of Worker) Order 2015 (S.I. 2015/491), arts. 1, 2(3)
+
+F33S. 43K(4)(5) inserted (25.4.2013 for specified purposes) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(7), 103(1)(i)(2) (with s. 24(6))
+
+Modifications etc. (not altering text)
+
+C1S. 43K(1)(ba) modified (E.) (1.4.2004) by The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865), art. 109(2)(f)
+
+C2S. 43K(1)(ba) modified (W.) (1.4.2004) by The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016), art. 85(2)(f)
+
+C3S. 43K(1)(bb) modified (S.) (1.4.2004) by The General Medical Services and Section 17C Agreements (Transitional and other Ancillary Provisions) (Scotland) Order 2004 (S.S.I. 2004/163), art. 96(2)(d)
+
+C4S. 43K(1)(c)(ii) modified (temp) (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 20(10), 103(2) (with s. 24(6))
+
+[F3443KA Application of this Part and related provisions to policeE+W+S
+
+(1)For the purposes of—
+
+(a)this Part,
+
+(b)section 47B and sections 48 and 49 so far as relating to that section, and
+
+(c)section 103A and the other provisions of Part 10 so far as relating to the right not to be unfairly dismissed in a case where the dismissal is unfair by virtue of section 103A,
+
+a person who holds, otherwise than under a contract of employment, the office of constable or an appointment as a police cadet shall be treated as an employee employed by the relevant officer under a contract of employment; and any reference to a worker being “ employed ” and to his “ employer ” shall be construed accordingly.
+
+(2) In this section “ the relevant officer ” means—
+
+(a)in relation to a member of a police force or a special constable appointed for a police area, the chief officer of police;
+
+[F35(b)in relation to a member of a police force seconded to the [F36National Crime Agency to serve as a National Crime Agency officer], that Agency; and]
+
+(d)in relation to any other person holding the office of constable or an appointment as police cadet, the person who has the direction and control of the body of constables or cadets in question.]
+
+Textual Amendments
+
+F34S. 43KA inserted (1.4.2004) by Police Reform Act 2002 (c. 30), ss. 37(1), 108(2)-(5); S.I. 2004/913, art. 2(b)
+
+F35S. 43KA(2)(b) substituted for s. 43KA(2)(b)(c) (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 178, Sch. 4 para. 85; S.I. 2006/378, art. 4(1), Sch. (subject to art. 4(2)-(7))
+
+F36Words in s. 43KA(2)(b) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 50; S.I. 2013/1682, art. 3(v)
+
+43L Other interpretative provisions.E+W+S
+
+(1)In this Part—
+
+“ qualifying disclosure ” has the meaning given by section 43B;
+
+“ the relevant failure ”, in relation to a qualifying disclosure, has the meaning given by section 43B(5);
+
+[F37“sexual harassment” means harassment of the kind described in section 26(2) of the Equality Act 2010 (unwanted conduct of a sexual nature).]
+
+(2)In determining for the purposes of this Part whether a person makes a disclosure for purposes of personal gain, there shall be disregarded any reward payable by or under any enactment.
+
+(3)Any reference in this Part to the disclosure of information shall have effect, in relation to any case where the person receiving the information is already aware of it, as a reference to bringing the information to his attention.]
+
+Textual Amendments
+
+F37Words in s. 43L(1) inserted (6.4.2026) by Employment Rights Act 2025 (c. 36), ss. 23(3), 159(3); S.I. 2026/323, reg. 3(1)(2)
+
+Previous:
+Part
+
+Next:
+Part
+
+
+=================== s 47B ===================
+[F147B Protected disclosures.E+W+S
+
+(1)A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker has made a protected disclosure.
+
+[F2(1A)A worker (“W”) has the right not to be subjected to any detriment by any act, or any deliberate failure to act, done—
+
+(a)by another worker of W's employer in the course of that other worker's employment, or
+
+(b)by an agent of W's employer with the employer's authority,
+
+on the ground that W has made a protected disclosure.
+
+(1B)Where a worker is subjected to detriment by anything done as mentioned in subsection (1A), that thing is treated as also done by the worker's employer.
+
+(1C)For the purposes of subsection (1B), it is immaterial whether the thing is done with the knowledge or approval of the worker's employer.
+
+(1D)In proceedings against W's employer in respect of anything alleged to have been done as mentioned in subsection (1A)(a), it is a defence for the employer to show that the employer took all reasonable steps to prevent the other worker—
+
+(a)from doing that thing, or
+
+(b)from doing anything of that description.
+
+(1E)A worker or agent of W's employer is not liable by reason of subsection (1A) for doing something that subjects W to detriment if—
+
+(a)the worker or agent does that thing in reliance on a statement by the employer that doing it does not contravene this Act, and
+
+(b)it is reasonable for the worker or agent to rely on the statement.
+
+But this does not prevent the employer from being liable by reason of subsection (1B).]
+
+(2)F3 . . . This section does not apply where—
+
+(a)the worker is an employee, and
+
+(b)the detriment in question amounts to dismissal (within the meaning of [F4Part X]).
+
+(3) For the purposes of this section, and of sections 48 and 49 so far as relating to this section, “ worker ”, “ worker’s contract ”, “ employment ” and “ employer ” have the extended meaning given by section 43K. ]
+
+Textual Amendments
+
+F1S. 47B inserted (2.7.1999) by 1998 c. 23, s. 2; S.I. 1999/1547, art. 2
+
+F2S. 47B(1A)-(1E) inserted (25.6.2013) by Enterprise and Regulatory Reform Act 2013 (c. 24), ss. 19(1), 103(3) (with s. 24(6)); S.I. 2013/1455, art. 2(a) (with art. 4(2))
+
+F3Words in s. 47B(2) repealed (25.10.1999) by 1999 c. 26, ss. 18(2)(a), 44, Sch. 9(3); S.I. 1999/2830, art. 2(1)(3), Sch. 1 Pt. I, Sch. 2 Pt. I (with Sch. 3 para. 2(2))
+
+F4Words in s. 47B(2) substituted (25.10.1999) by 1999 c. 26, s. 18(2)(b); S.I. 1999/2830, art. 2(1), Sch. 1 Pt. I (with Sch. 3 para. 2)
+
+Previous:
+Provision
+
+Next:
+Provision
+
+
+=================== s 103A ===================
+[F1103A Protected disclosure.E+W+S
+
+An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee made a protected disclosure.]
+
+Textual Amendments
+
+F1S. 103A inserted (2.7.1999) by 1998 c. 23, s. 5; S.I. 1999/1547, art. 2
+
+Previous:
+Provision
+
+Next:
+Provision

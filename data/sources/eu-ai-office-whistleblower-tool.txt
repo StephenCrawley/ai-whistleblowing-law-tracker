@@ -1,0 +1,32 @@
+# European Commission - AI Act Whistleblower Tool (web page)
+# Source: https://digital-strategy.ec.europa.eu/en/policies/ai-act-whistleblower-tool
+# Retrieved: 2026-09-28
+# Verbatim page text (page says "Last update 31 July 2026"). Tool itself: https://ai-act-whistleblower.integrityline.app/
+
+Skip to main content
+
+AI Act Whistleblower Tool
+
+The AI Act Whistleblower Tool empowers individuals to securely submit a report and contribute directly to make AI in Europe safe transparent, and trustworthy.
+
+Whistleblowers play a vital role in identifying potential violations of the law that could endanger fundamental rights, health, or public trust, and which might otherwise go undetected. By reporting potential violations, whistleblowers can support the AI Office in detecting them early on, thereby contributing to the safe and transparent development of AI technologies.
+
+The AI Act Whistleblower Tool, launched by the AI Office, allows individuals who are professionally connected to providers of general-purpose AI (GPAI) models or of AI systems falling within the AI Office’s enforcement remit to report harmful practices or other violations to the AI Act. You can submit your report anonymously in any EU language together with supporting documents using the secure inbox in the tool. The inbox also enables whistleblowers to stay up to date on the progress of their report, answer follow-up questions while remaining anonymous.
+
+Alongside with the secure tool, the AI Office commits itself to a high standard of confidentiality and has documented internal procedures to maximise the protection whistleblowers' identities.
+
+In parallel, the AI Act Complaint Tool also processes complaints concerning alleged infringements of the AI Act by providers of AI systems under the scope of the AI Office's enforcement powers.
+
+Related Content
+
+Big Picture
+
+AI Act
+
+The AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.
+
+Last update
+
+31 July 2026
+
+Print as PDF

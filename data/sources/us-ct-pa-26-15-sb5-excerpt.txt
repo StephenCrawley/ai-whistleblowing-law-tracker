@@ -1,0 +1,174 @@
+# Connecticut Public Act 26-15 (Substitute Senate Bill 5, 2026) - excerpt: title and Sec. 2 (frontier developer whistleblower protections)
+# Source: https://www.cga.ct.gov/2026/act/pa/pdf/2026PA-00015-R00SB-00005-PA.pdf
+# Retrieved: 2026-09-28
+# Text extracted from the official PDF with pypdf; PDF line breaks and page headers retained, so some words are split (e.g. "penalt ies"). Signed by the Governor 2026-05-27 (cga.ct.gov bill status page for SB 5, 2026). Other sections (chatbots, employment AI, layoffs) omitted. Sec. 2(b)(1) refers to CGS 31-51m: see us-ct-cgs-31-51m.txt.
+
+
+
+
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15
+
+
+[...]
+Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section:
+(1) "Catastrophic risk" (A) means any foreseeable and material risk
+that the development, storage, use or deployment of a frontier model by
+a frontier developer will materially contribute to the death of, or serious
+injury to, more than fifty individuals, or more than one billion dollars in
+damage to covered property, or the loss of more than one billion dollars
+of covered property, arising from any single incident in which the
+frontier model (i) provides expert -level assistance in the creation or
+release of a chemical, biological, radiological or nuclear weapon, or (ii)
+engages in any conduct, with no meaningful human oversight,
+intervention or supervision, that constitutes a cyberattack or, if an
+individual had engaged in such conduct, would constitute the  crime of
+murder, assault, extortion or theft, including, but not limited to, theft by
+false pretense, and (B) does not include any foreseeable and material
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15 4 of 74
+
+risk posed by (i) any information that a foundation model outputs if
+such information is otherwise publicly accessible, in a substantially
+similar form, from any source other than the foundation model, (ii) any
+lawful activity of the federal government, or  (iii) any combination of a
+foundation model with other software if the foundation model did not
+materially increase such risk;
+(2) "Covered employee" means any employee of a frontier developer
+who is responsible for assessing, managing or addressing the risk of (A)
+any unauthorized access to, or modification or exfiltration of, the model
+weights of a foundation model that causes (i) any death or bodily injury,
+or (ii) any damage to, or loss of, covered property, (B) any harm due to
+the materialization of any catastrophic risk, (C) any loss of control over
+a foundation model that results in any death or bodily injury, or (D) any
+use of a deceptive technique by a foundation model against its frontier
+developer that (i) subverts the frontier developer's control over, or
+monitoring of, the foundation model, (ii) demonstrates any materially
+increased catastrophic risk, and (iii) occurs o utside of the context of an
+evaluation that is designed to elicit such use;
+(3) "Covered property" means tangible or intangible property, but
+does not include equity;
+(4) "Cyberattack" means to (A) access a computer, information system
+or network, or any information stored thereon or transmitted thereby,
+without authorization or in a manner that exceeds granted
+authorization, and (B) impair the integrity or availability  of data, a
+program, a system or information;
+(5) "Deployment" (A) means making any foundation model available
+to a third party for use, modification, copying or combination with other
+software, and (B) does not include making any foundation model
+available to a third party for the primary purpose of developing or
+evaluating such foundation model;
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15 5 of 74
+
+(6) "Employee" has the same meaning as provided in section 31 -51m
+of the general statutes;
+(7) "Foundation model" means any engineered or machine -based
+system that (A) varies in its level of autonomy, (B) can, for any explicit
+or implicit objective, infer from the inputs such system receives how to
+generate outputs that can influence physical or  virtual environments,
+(C) is trained on a broad data set, (D) is designed for generality of
+output, and (E) is adaptable to a wide range of distinctive tasks;
+(8) "Frontier developer" means any person doing business in the state
+who intends to train, initiates the training of or trains a foundation
+model and, in doing so, uses, or intends to use, a quantity of computing
+power that is greater than ten to the twen ty-sixth power integer or
+floating-point operations, inclusive of any computing power used for
+original training and for any fine -tuning, reinforcement learning or
+other material modifications such person applies to a preceding
+foundation model;
+(9) "Large frontier developer" means any frontier developer who
+together with all persons who either directly or indirectly through one
+or more intermediaries control, are controlled by or are under common
+control with such frontier developer had annual gr oss revenues in
+excess of five hundred million dollars for the most recently completed
+calendar year;
+(10) "Model weights" means the numerical parameters in a
+foundation model that are adjusted through training and help
+determine how inputs are transformed into outputs; and
+(11) "Person" means any individual, association, corporation, limited
+liability company, partnership, trust or other legal entity.
+(b) No frontier developer shall make, adopt, enforce or enter into any
+rule, regulation, policy or contract that provides that:
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15 6 of 74
+
+(1) The frontier developer may discharge, discipline or otherwise
+penalize any employee of such frontier developer because such
+employee has  engaged in any activity set forth in subsection (b) of
+section 31-51m of the general statutes; or
+(2) Any person with authority over a covered employee, or any other
+covered employee who has authority to investigate, discover or correct
+an issue reported by the covered employee, may discipline or retaliate
+against such covered employee if such covered employee has
+reasonable cause to believe that an issue reported by such covered
+employee indicates that such frontier developer has engaged in any
+activity that poses a specific and substantial danger to the public health
+or safety due to a catastrophic risk.
+(c) (1) Not later than January 1, 2027, each large frontier developer
+shall establish and maintain a reasonable internal process through
+which (A) a covered employee of such large frontier developer may
+anonymously submit a report to such large frontier developer disclosing
+any information that the covered employee believes, in good faith,
+indicates that such large frontier developer has engaged in any activity
+that poses a specific and substantial danger to the public health or safety
+due to a catastrophic  risk, and (B) such large frontier developer shall
+provide reasonable up dates to each covered employee who submits a
+report under subparagraph (A) of this subdivision disclosing (i) the
+status of the investigation such large frontier developer has undertaken
+in response to such report, and (ii) the actions such large frontier
+developer has taken in response to such report.
+(2) (A) Except as provided in subparagraph (B) of this subdivision,
+each report submitted under subparagraph (A) of subdivision (1) of this
+subsection, and each reasonable update provided pursuant to
+subparagraph (B) of subdivision (1) of this subsection, shall be shared
+with the officers and directors of the large frontier developer at least
+quarterly.
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15 7 of 74
+
+(B) If a covered employee has alleged wrongdoing by an officer or
+director of the large frontier developer in a report submitted under
+subparagraph (A) of subdivision (1) of this subsection, neither such
+report nor any reasonable update provided in response to such  report
+pursuant to subparagraph (B) of subdivision (1) of this subsection shall
+be shared with such officer or director.
+(d) Each frontier developer shall provide to all of its covered
+employees clear notice of such covered employees' rights and
+responsibilities under this section by, at a minimum:
+(1) Ensuring that (A) a notice is posted and displayed at all times
+within any workplace maintained by such frontier developer disclosing
+the rights of covered employees under this section, (B) each newly hired
+covered employee of such frontier developer r eceives a notice that is
+equivalent to the notice required under subparagraph (A) of this
+subdivision, and (C) each covered employee of such frontier developer
+who works remotely periodically receives a notice that is equivalent to
+the notice required under subparagraph (A) of this subdivision; or
+(2) At least annually providing a written notice to each covered
+employee of such frontier developer disclosing such covered
+employee's rights under this section, and ensuring each such covered
+employee receives, and acknowledges that such covered employee  has
+received, such written notice.
+(e) Any frontier developer that violates any provision of subsections
+(b) to (d), inclusive, of this section shall be liable to the state for a civil
+penalty in an amount that does not exceed one thousand dollars per
+violation. The Attorney General may bri ng an action in the superior
+court for the judicial district of Hartford to collect such civil penalty and
+for any injunctive or equitable relief. No injunctive or equitable relief
+granted pursuant to this subsection shall be stayed pending appeal. In
+any action brought by the Attorney General to enforce the provisions of
+Substitute Senate Bill No. 5
+
+Public Act No. 26-15 8 of 74
+
+subsections (b) to (d), inclusive, of this section, the state shall be entitled
+to recover, when the state is the prevailing party, the costs of
+investigation, expert witness fees, costs of the action and reasonable
+attorneys' fees. The remedies and penalt ies established in this
+subsection shall be cumulative and shall be in addition to  any other
+remedies and penalties available at law or in equity.

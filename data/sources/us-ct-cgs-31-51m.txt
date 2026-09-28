@@ -1,0 +1,44 @@
+# Connecticut General Statutes § 31-51m - Protection of employee who discloses employer's illegal activities or unethical practices. Civil action.
+# Source: https://www.cga.ct.gov/current/pub/chap_557.htm#sec_31-51m
+# Retrieved: 2026-09-28
+# Verbatim section text with its source, history and annotation notes. Referenced by PA 26-15 Sec. 2(b)(1). The chapter page notes that readers should refer to the 2026 Supplement (revised to January 1, 2026) for statutes changed in 2025; the history note for this section lists no amendment after P.A. 14-122. Downloaded with the GoDaddy G2 intermediate certificate added (see README).
+
+Sec. 31-51m. Protection of employee who discloses employer's illegal activities or unethical practices or reports a suspected incident of child abuse or neglect. Civil action. (a) As used in this section:
+
+(1) “Person” means one or more individuals, partnerships, associations, corporations, limited liability companies, business trusts, legal representatives or any organized group of persons;
+
+(2) “Employer” means a person engaged in business who has employees, including the state and any political subdivision of the state;
+
+(3) “Employee” means any person engaged in service to an employer in a business of his employer;
+
+(4) “Public body” means (A) any public agency, as defined in subdivision (1) of section 1-200, or any employee, member or officer thereof, or (B) any federal agency or any employee, member or officer thereof.
+
+(b) No employer shall discharge, discipline or otherwise penalize any employee because (1) the employee, or a person acting on behalf of the employee, reports, verbally or in writing, a violation or a suspected violation of any state or federal law or regulation or any municipal ordinance or regulation to a public body, (2) the employee is requested by a public body to participate in an investigation, hearing or inquiry held by that public body, or a court action, or (3) the employee reports a suspected incident of child abuse or neglect pursuant to sections 17a-101a to 17a-101d, inclusive, or 17a-103. No municipal employer shall discharge, discipline or otherwise penalize any employee because the employee, or a person acting on behalf of the employee, reports, verbally or in writing, to a public body concerning the unethical practices, mismanagement or abuse of authority by such employer. The provisions of this subsection shall not be applicable when the employee knows that such report is false.
+
+(c) Any employee who is discharged, disciplined or otherwise penalized by his employer in violation of the provisions of subsection (b) may, after exhausting all available administrative remedies, bring a civil action, within ninety days of the date of the final administrative determination or within ninety days of such violation, whichever is later, in the superior court for the judicial district where the violation is alleged to have occurred or where the employer has its principal office, for the reinstatement of his previous job, payment of back wages and reestablishment of employee benefits to which he would have otherwise been entitled if such violation had not occurred. An employee's recovery from any such action shall be limited to such items, provided the court may allow to the prevailing party his costs, together with reasonable attorney's fees to be taxed by the court. Any employee found to have knowingly made a false report shall be subject to disciplinary action by his employer up to and including dismissal.
+
+(d) This section shall not be construed to diminish or impair the rights of a person under any collective bargaining agreement.
+
+(P.A. 82-289, S. 1; P.A. 85-58; 85-245, S. 2; 85-613, S. 71, 154; P.A. 87-14; P.A. 95-79, S. 111, 189; P.A. 97-47, S. 48; P.A. 13-53, S. 2; P.A. 14-122, S. 48.)
+
+History: P.A. 85-58 redefined “public body” to include any federal agency or any employee, member or officer thereof; P.A. 85-245 amended definition of “employer” in Subsec. (a) to include the state; P.A. 85-613 made technical change deleting reference to Sec. 31-278 as section to which definitions apply; P.A. 87-14 amended Subsec. (b) to prohibit municipal employers from penalizing employees who report their employers' unethical practices, mismanagement or abuse of authority; P.A. 95-79 amended Subsec. (a) to redefine “person” to include limited liability companies, effective May 31, 1995; P.A. 97-47 made a technical change in Subsec. (a)(4); P.A. 13-53 amended Subsec. (b) by designating provision re employee reporting violation of law as Subdiv. (1) and provision re employee participation in investigation as Subdiv. (2) and adding Subdiv. (3) re employee reporting suspected incident of child abuse or neglect and by making technical changes; P.A. 14-122 made a technical change in Subsec. (a).
+
+Cited. 193 C. 558; 224 C. 693.
+
+Cited. 4 CA 69; 15 CA 130; 40 CA 577. Section allows for costs, but does not expressly provide for expert witness fees; therefore, general cost provisions of Secs. 52-257 and 52-260 apply, which do not mention nontestimonial costs; accordingly, the nontestimonial work performed by plaintiff's economics expert was not taxable as costs; nothing in the legislative history indicates that legislature's use of term “costs” in either this section or Sec. 31-51q was intended to authorize court to award prevailing party the cost of an economist; because an economist is not a listed expert witness whose cost may be reimbursed under Sec. 52-260(f), testimonial fees of plaintiff's expert economist cannot be reimbursed. 79 CA 501.
+
+Subsec. (a):
+
+Plaintiff, an elected municipal sheriff, was an independent contractor and not an employee of defendant municipality under section. 135 CA 699.
+
+Subsec. (b):
+
+Existence of a statutory remedy in section precludes plaintiff from bringing a common-law wrongful discharge action. 252 C. 153.
+
+Cited. 15 CA 130. In an action under Subsec., plaintiff has initial burden of proving by a preponderance of evidence a prima facie case of retaliatory discharge; once plaintiff has made prima facie showing of a retaliatory discharge, defendant is obligated to produce evidence that, if taken as true, would permit conclusion that there was a nonretaliatory reason for termination of employment; if defendant provides a legitimate and nonretaliatory reason for the discharge, plaintiff must offer some significantly probative evidence showing that defendant's proffered reason is pretextual and that retaliatory intention resulted in his discharge. 79 CA 501. In order to satisfy second element in action under Subsec. by way of constructive discharge, plaintiff needs to establish that the employer intentionally created an intolerable work atmosphere that forced the employee to quit involuntarily, and that the intolerable conditions are supported by more than the employee's subjective opinion. 178 CA 504.
+
+Subsec. (c):
+
+Employer is entitled to attorney's fees as a prevailing party only if plaintiff acted in bad faith in bringing or conducting the action. 265 C. 210.
+
+Cited. 15 CA 130. Unemployment compensation is not an administrative remedy under section, and receipt of unemployment benefits does not toll the statute of limitations provided. 74 CA 67.

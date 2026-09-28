@@ -1,0 +1,51 @@
+# Regulation (EU) 2024/1689 (AI Act) - excerpt: Recital 172, Article 87 (with its chapter/section headings), Article 113
+# Source: https://publications.europa.eu/resource/celex/32024R1689 (EUR-Lex CELEX 32024R1689, Official Journal text as published 12.7.2024)
+# Retrieved: 2026-09-28
+# Verbatim extract of the Official Journal text as published; NOT the consolidated text. Regulation (EU) 2026/1744 (in force 27 July 2026) amends points (a) and (c) of the third paragraph of Article 113 and adds a point (d), but leaves the general application date in the second paragraph unchanged and does not amend Article 87: see eu-ai-act-omnibus-2026-1744-excerpt.txt. Article 87 is in Chapter IX, which is not among the Article 113 exceptions, so it applies from 2 August 2026.
+
+(172)
+
+Persons acting as whistleblowers on the infringements of this Regulation should be protected under the Union law. Directive (EU) 2019/1937 of the European Parliament and of the Council (54) should therefore apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+
+[...]
+
+CHAPTER IX
+
+POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE
+SECTION 4
+
+Remedies
+
+[...]
+
+Article 87
+
+Reporting of infringements and protection of reporting persons
+
+Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+
+[...]
+
+Article 113
+
+Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 2 August 2026.
+
+However:
+
+(a)
+
+Chapters I and II shall apply from 2 February 2025;
+
+(b)
+
+Chapter III Section 4, Chapter V, Chapter VII and Chapter XII and Article 78 shall apply from 2 August 2025, with the exception of Article 101;
+
+(c)
+
+Article 6(1) and the corresponding obligations in this Regulation shall apply from 2 August 2027.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.

@@ -1,0 +1,151 @@
+# New York Assembly Bill A6453 (2025), RAISE Act - versions A and B, excerpt
+# Source: https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A (page saved by hand in a browser; the saved file records this URL)
+# Retrieved: 2026-09-28
+# Verbatim, blank lines removed. The official bill page shows every version of the bill. Kept: the actions list; version A's opening, table of sections and section 1422 ("Protections, rights and obligations of employees") in full; version B's opening and table of sections, which has no employee section. Version B is the text passed by both houses (as S6953-B/A6453-B) and signed 2025-12-19 as Chapter 699 of 2025; it was then replaced, before taking effect, by S8828 (see us-ny-raise-act-s8828-2026.txt).
+
+--- Bill page: actions (A6453) ---
+Date of Action
+Assembly Actions -
+Lowercase
+Senate Actions -
+UPPERCASE
+Dec 19, 2025
+approval memo.76
+signed chap.699
+Dec 09, 2025
+delivered to governor
+Jun 12, 2025
+returned to senate
+passed assembly
+ordered to third reading rules cal.656
+substituted for a6453b
+Jun 12, 2025
+substituted by s6953b
+ordered to third reading rules cal.656
+rules report cal.656
+reported
+reported referred to rules
+Jun 11, 2025
+reference changed to ways and means
+Jun 09, 2025
+print number 6453b
+Jun 09, 2025
+amend and recommit to codes
+May 29, 2025
+reported referred to codes
+May 16, 2025
+print number 6453a
+May 16, 2025
+amend and recommit to science and technology
+Mar 05, 2025
+referred to science and technology
+
+--- Version A (6453--A): opening and table of sections ---
+S T A T E O F N E W Y O R K
+________________________________________________________________________
+6453--A
+2025-2026 Regular Sessions
+I N A S S E M B L Y
+March 5, 2025
+___________
+Introduced by M. of A. BORES, LASHER, SEAWRIGHT, PAULIN, TAPIA, RAGA,
+SHIMSKY, REYES, EPSTEIN, BURKE, HEVESI, P. CARROLL, ZACCARO, HYNDMAN,
+LUPARDO, KASSAY, LEE, DAVILA, SCHIAVONI, LUNSFORD, K. BROWN, TANNOUS-
+IS, TORRES, HOOKS, GIBBS, ROMERO, COLTON, CONRAD, MEEKS, GLICK, CRUZ,
+CUNNINGHAM, FORREST, CHANDLER-WATERMAN, STIRPE -- read once and
+referred to the Committee on Science and Technology -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to the training
+and use of artificial intelligence frontier models
+THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+BLY, DO ENACT AS FOLLOWS:
+Section 1. Short title. This act shall be known and may be cited as
+the "Responsible AI safety and education act" or "RAISE act".
+§ 2. The general business law is amended by adding a new article 44-B
+to read as follows:
+ARTICLE 44-B
+RESPONSIBLE AI SAFETY AND EDUCATION (RAISE) ACT
+SECTION 1420. DEFINITIONS.
+1421. TRANSPARENCY REQUIREMENTS REGARDING FRONTIER MODEL TRAIN-
+ING AND USE.
+1422. PROTECTIONS, RIGHTS AND OBLIGATIONS OF EMPLOYEES.
+1423. VIOLATIONS.
+1424. DUTIES AND OBLIGATIONS.
+1425. SCOPE.
+1426. SEVERABILITY.
+[...]
+--- Version A: section 1422 in full ---
+§ 1422. PROTECTIONS, RIGHTS AND OBLIGATIONS OF EMPLOYEES. 1. A LARGE
+DEVELOPER OR A CONTRACTOR OR SUBCONTRACTOR OF A LARGE DEVELOPER SHALL
+NOT PREVENT AN EMPLOYEE FROM DISCLOSING, OR THREATENING TO DISCLOSE, OR
+RETALIATE AGAINST AN EMPLOYEE FOR DISCLOSING OR THREATENING TO DISCLOSE,
+INFORMATION TO THE LARGE DEVELOPER OR THE ATTORNEY GENERAL, IF THE
+EMPLOYEE HAS REASONABLE CAUSE TO BELIEVE THAT THE LARGE DEVELOPER'S
+ACTIVITIES POSE AN UNREASONABLE OR SUBSTANTIAL RISK OF CRITICAL HARM,
+REGARDLESS OF THE EMPLOYER'S COMPLIANCE WITH APPLICABLE LAW.
+2. AN EMPLOYEE HARMED BY A VIOLATION OF THIS SECTION MAY PETITION A
+COURT FOR APPROPRIATE TEMPORARY OR PRELIMINARY INJUNCTIVE RELIEF.
+A. 6453--A 6
+3. A LARGE DEVELOPER SHALL INFORM EMPLOYEES OF THEIR PROTECTIONS,
+RIGHTS AND OBLIGATIONS UNDER THIS ARTICLE WITHIN NINETY DAYS OF THE
+EFFECTIVE DATE OF THIS ARTICLE OR OF BECOMING A LARGE DEVELOPER, WHICH-
+EVER IS LATER, UPON COMMENCEMENT OF EMPLOYMENT, AND BY POSTING A NOTICE
+THEREOF. SUCH NOTICE SHALL BE POSTED CONSPICUOUSLY IN EASILY ACCESSIBLE
+AND WELL-LIGHTED PLACES CUSTOMARILY FREQUENTED BY EMPLOYEES.
+4. NOTHING IN THIS SECTION SHALL BE DEEMED TO DIMINISH THE RIGHTS,
+PRIVILEGES, OR REMEDIES OF ANY EMPLOYEE UNDER ANY OTHER LAW OR REGU-
+LATION OR UNDER ANY COLLECTIVE BARGAINING AGREEMENT OR EMPLOYMENT
+CONTRACT.
+5. AS USED IN THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOW-
+ING MEANINGS:
+(A) "EMPLOYEE" HAS THE SAME MEANING AS DEFINED IN SUBDIVISION FIVE OF
+SECTION TWO OF THE LABOR LAW AND INCLUDES BOTH OF THE FOLLOWING:
+(I) CONTRACTORS OR SUBCONTRACTORS AND UNPAID ADVISORS INVOLVED WITH
+ASSESSING, MANAGING, OR ADDRESSING THE RISK OF CRITICAL HARM FROM FRON-
+TIER MODELS; AND
+(II) CORPORATE OFFICERS.
+(B) "CONTRACTOR OR SUBCONTRACTOR" MEANS ANY PERSON, SOLE PROPRIETOR,
+PARTNERSHIP, FIRM, CORPORATION, LIMITED LIABILITY COMPANY, ASSOCIATION
+OR OTHER LEGAL ENTITY WHO BY ONESELF OR THROUGH OTHERS OFFERS TO UNDER-
+TAKE, OR HOLDS ONESELF OUT AS BEING ABLE TO UNDERTAKE, OR DOES UNDERTAKE
+WORK ASSESSING, MANAGING, OR ADDRESSING THE RISK OF CRITICAL HARM FROM
+FRONTIER MODELS ON BEHALF OF THE LARGE DEVELOPER.
+
+--- Version B (6453--B), the version passed by both houses: opening and table of sections ---
+S T A T E O F N E W Y O R K
+________________________________________________________________________
+6453--B
+2025-2026 Regular Sessions
+I N A S S E M B L Y
+March 5, 2025
+___________
+Introduced by M. of A. BORES, LASHER, SEAWRIGHT, PAULIN, TAPIA, RAGA,
+SHIMSKY, REYES, EPSTEIN, BURKE, HEVESI, P. CARROLL, ZACCARO, HYNDMAN,
+LUPARDO, KASSAY, LEE, DAVILA, SCHIAVONI, LUNSFORD, K. BROWN, TANNOUS-
+IS, TORRES, HOOKS, GIBBS, ROMERO, COLTON, CONRAD, MEEKS, GLICK, CRUZ,
+CUNNINGHAM, FORREST, CHANDLER-WATERMAN, STIRPE, WRIGHT, SIMON, DAIS,
+JENSEN, ROZIC, GONZALEZ-ROJAS -- read once and referred to the Commit-
+tee on Science and Technology -- committee discharged, bill amended,
+ordered reprinted as amended and recommitted to said committee --
+reported and referred to the Committee on Codes -- committee
+discharged, bill amended, ordered reprinted as amended and recommitted
+to said committee
+AN ACT to amend the general business law, in relation to the training
+and use of artificial intelligence frontier models
+THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+BLY, DO ENACT AS FOLLOWS:
+Section 1. Short title. This act shall be known and may be cited as
+the "Responsible AI safety and education act" or "RAISE act".
+§ 2. The general business law is amended by adding a new article 44-B
+to read as follows:
+ARTICLE 44-B
+RESPONSIBLE AI SAFETY AND EDUCATION (RAISE) ACT
+SECTION 1420. DEFINITIONS.
+1421. TRANSPARENCY REQUIREMENTS REGARDING FRONTIER MODEL TRAIN-
+ING AND USE.
+1422. VIOLATIONS.
+1423. DUTIES AND OBLIGATIONS.
+1424. SCOPE.
+1425. SEVERABILITY.
+[...]

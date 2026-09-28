@@ -1,0 +1,154 @@
+# Source texts: one entry per file in this directory. See README.md for field meanings, retrieval notes and licensing.
+
+- id: eu-ai-act-2024-1689-excerpt
+  file: eu-ai-act-2024-1689-excerpt.txt
+  title: Regulation (EU) 2024/1689 (AI Act), excerpt - Recital 172, Article 87, Article 113
+  url:
+    - https://publications.europa.eu/resource/celex/32024R1689
+  retrieved: 2026-09-28
+  method: Cellar endpoint
+  license: EU legal text; reuse authorised with acknowledgement of source (Commission Decision 2011/833/EU)
+  raw_sha256:
+    aiact.cellar: 8f0b656302f9864cc87e040c371f209a9d65ae1a6cecc25ca5eb737e872d721a
+
+- id: eu-ai-act-omnibus-2026-1744-excerpt
+  file: eu-ai-act-omnibus-2026-1744-excerpt.txt
+  title: Regulation (EU) 2026/1744 (Digital Omnibus on AI), excerpt - title, Article 1 opening, point (40) amending AI Act Article 113, Article 4
+  url:
+    - https://publications.europa.eu/resource/celex/32026R1744
+  retrieved: 2026-09-28
+  method: Cellar endpoint
+  license: EU legal text; reuse authorised with acknowledgement of source (Commission Decision 2011/833/EU)
+  raw_sha256:
+    omnibus.cellar: 9d754652b867722807e4219c85912ce354233e58a1b4eb8c7752b4d1922993db
+
+- id: eu-ai-office-whistleblower-tool
+  file: eu-ai-office-whistleblower-tool.txt
+  title: European Commission - AI Act Whistleblower Tool (web page)
+  url:
+    - https://digital-strategy.ec.europa.eu/en/policies/ai-act-whistleblower-tool
+  retrieved: 2026-09-28
+  method: fetched
+  license: European Commission web content; reuse authorised with acknowledgement of source (Commission Decision 2011/833/EU)
+  raw_sha256:
+    aio-tool.html: 90f143164ca6a2df1f6831ee26a8a034b8ef8db4a734e729bc096fc95f920a4d
+
+- id: eu-whistleblowing-directive-2019-1937
+  file: eu-whistleblowing-directive-2019-1937.txt
+  title: Directive (EU) 2019/1937 on the protection of persons who report breaches of Union law, Articles 1-29
+  url:
+    - https://publications.europa.eu/resource/celex/32019L1937
+  retrieved: 2026-09-28
+  method: Cellar endpoint
+  license: EU legal text; reuse authorised with acknowledgement of source (Commission Decision 2011/833/EU)
+  raw_sha256:
+    directive.cellar: b20533b5d612f67bcadce9c9aa79769dbee0037e42f9adef4b07ebefd8dbf7e7
+
+- id: uk-era-1996-part-iva-pida
+  file: uk-era-1996-part-iva-pida.txt
+  title: UK Employment Rights Act 1996, Part IVA (Public Interest Disclosure Act 1998), s 47B, s 103A
+  url:
+    - https://www.legislation.gov.uk/ukpga/1996/18/part/IVA
+    - https://www.legislation.gov.uk/ukpga/1996/18/section/47B
+    - https://www.legislation.gov.uk/ukpga/1996/18/section/103A
+  retrieved: 2026-09-28
+  method: fetched
+  license: Crown copyright; Open Government Licence v3.0
+  raw_sha256:
+    era-part4a.html: 0e2cf535170cfa3344d0297ab2ac770c22a3abe4d51e7b4400822d10f64a8ff7
+    era-47b.html: 113ba42db2dda2022000e62827a98a7305913aa231763a6bea9f44b9d22dbf89
+    era-103a.html: 8754d3fc5b8ca4eca25e6940daef31627db8e5c4bf6af95727b63cdf6d0e9ae4
+
+- id: uk-prescribed-persons-list
+  file: uk-prescribed-persons-list.txt
+  title: "GOV.UK guidance - Whistleblowing: list of prescribed people and bodies (updated 15 September 2026)"
+  url:
+    - https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2/whistleblowing-list-of-prescribed-people-and-bodies
+  retrieved: 2026-09-28
+  method: fetched
+  license: Crown copyright; Open Government Licence v3.0
+  raw_sha256:
+    uk-prescribed.html: 47f35deeca045991352b5e6b5cb1f27158ff478088781626d87a662e794c062b
+
+- id: us-ca-sb53-2025
+  file: us-ca-sb53-2025.txt
+  title: California SB 53 (2025), Transparency in Frontier Artificial Intelligence Act, chaptered text (Chapter 138, Statutes of 2025)
+  url:
+    - https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53
+    - https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB53
+  retrieved: 2026-09-28
+  method: fetched
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    sb53.html: 9fe46e7f68b92bd850031b9bf9bf74b184c236677feab80fe992b08e9852e632
+    sb53-status.html: ef4fb4ffaef4cb03aa5e8d165287987320ee1603aaa0f4729c1dfc3d0d084370
+
+- id: us-ct-cgs-31-51m
+  file: us-ct-cgs-31-51m.txt
+  title: Connecticut General Statutes § 31-51m (employee disclosure of illegal activities; civil action)
+  url:
+    - "https://www.cga.ct.gov/current/pub/chap_557.htm#sec_31-51m"
+  retrieved: 2026-09-28
+  method: fetched
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    ct-31-51m.htm: 245d85c566adb58e24a3a39a2fef446f3094e1ddf159727ba2c6c90f2fc8e395
+
+- id: us-ct-pa-26-15-sb5-excerpt
+  file: us-ct-pa-26-15-sb5-excerpt.txt
+  title: Connecticut Public Act 26-15 (Substitute Senate Bill 5, 2026), excerpt - title and Sec. 2
+  url:
+    - https://www.cga.ct.gov/2026/act/pa/pdf/2026PA-00015-R00SB-00005-PA.pdf
+    - https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2026&bill_num=5
+  retrieved: 2026-09-28
+  method: fetched
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    ct-pa26-15.pdf: 98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf
+    ct-sb5-status.html: 85a207d5ab311ca4f4fa8ac0f0cfd238d92c72d6b268393019d58afeb5fded67
+
+- id: us-federal-s1792-ai-whistleblower-protection-act
+  file: us-federal-s1792-ai-whistleblower-protection-act.txt
+  title: US S.1792 (119th Congress), AI Whistleblower Protection Act, introduced version
+  url:
+    - https://www.govinfo.gov/content/pkg/BILLS-119s1792is/html/BILLS-119s1792is.htm
+    - https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1792.xml
+  retrieved: 2026-09-28
+  method: fetched
+  license: Public domain (US federal government work, 17 U.S.C. 105)
+  raw_sha256:
+    s1792.html: 46a9126da15d186c0a103108f6e04db7c75cd3e10404c6cac4fe19849bfe6d7c
+    s1792-status.xml: d6e177d24ff82a09b8b30b06ecc0948d555b9e9910d4ba54d139a8529d898c8e
+
+- id: us-ny-labor-law-740
+  file: us-ny-labor-law-740.txt
+  title: New York Labor Law § 740 - Retaliatory action by employers; prohibition
+  url:
+    - https://www.nysenate.gov/legislation/laws/LAB/740
+  retrieved: 2026-09-28
+  method: manual download
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    NYS Open Legislation _ NYSenate.gov.html: 8a7c76953c3698e6dd97724b3368bdefd33d61ec05a21d9a0421aaf259971614
+
+- id: us-ny-raise-act-a6453-versions
+  file: us-ny-raise-act-a6453-versions.txt
+  title: New York A6453 (2025), RAISE Act - versions A and B, excerpt (section 1422 employee protections in A, dropped in B)
+  url:
+    - https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A
+  retrieved: 2026-09-28
+  method: manual download
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    NY State Assembly Bill 2025-A6453A.html: 0e370f7bf3df1fb179643b20dc1c121e974151b64c94d482f5d9091b161b79aa
+
+- id: us-ny-raise-act-s8828-2026
+  file: us-ny-raise-act-s8828-2026.txt
+  title: New York S8828 (2026), RAISE Act chapter amendment (Chapter 96 of 2026) - full bill text
+  url:
+    - https://www.nysenate.gov/legislation/bills/2025/S8828
+  retrieved: 2026-09-28
+  method: manual download
+  license: Public domain (US state legislative text; government edicts doctrine)
+  raw_sha256:
+    NY State Senate Bill 2025-S8828.html: a63397010322b178fa6093e739b393f64f947dc1e733551df2892765aaa59bae
