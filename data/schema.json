@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Law entry",
+  "description": "One law (or one section of a law) that protects people who raise concerns about AI.",
+  "type": "object",
+  "required": [
+    "id", "jurisdiction", "law", "section", "status", "ai_specific", "summary", "who_is_protected",
+    "disclosures_covered", "protections", "reporting_channels", "sources", "last_verified"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Lowercase slug used in page URLs: {jurisdiction}-{bill or short name}-{year}, e.g. us-ca-sb53-2025. Never include status, so URLs survive a status change."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}(-[A-Z0-9]{1,3})?$",
+      "description": "Two-letter code, optionally with a subdivision, e.g. EU, UK, US, US-CA."
+    },
+    "law": { "type": "string", "description": "Common name of the instrument now in force, e.g. California SB 53 (2025)." },
+    "section": { "type": "string", "description": "Where in the law the protections are, e.g. Article 87 or Labor Code §§ 1107–1107.2. With law, forms the citation." },
+    "status": {
+      "enum": ["proposed", "enacted", "ended"],
+      "description": "ended = lapsed, vetoed, withdrawn or repealed. 'In force' is derived: enacted and effective_date <= today."
+    },
+    "effective_date": { "$ref": "#/$defs/date", "description": "When the core anti-retaliation protection first applies. Omit if proposed or unknown." },
+    "ai_specific": { "type": "boolean" },
+    "summary": { "type": "string", "maxLength": 300 },
+    "who_is_protected": { "type": "string", "maxLength": 250 },
+    "disclosures_covered": { "type": "string", "maxLength": 250 },
+    "protections": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "enum": ["anti_retaliation", "confidentiality", "nda_override", "individual_remedy"] },
+      "description": "List a value only when the text clearly grants it. anti_retaliation: bans dismissal or other detriment. confidentiality: recipient must protect the reporter's identity. nda_override: contracts or waivers cannot block a protected report. individual_remedy: the reporter can bring their own claim (reinstatement, damages, fees, injunction)."
+    },
+    "reporting_channels": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/channel" },
+      "description": "Recipients the law protects disclosures to."
+    },
+    "limits": {
+      "type": "array",
+      "maxItems": 3,
+      "items": { "type": "string", "pattern": "\\)$" },
+      "description": "Limits of the protection, each ending with its citation in brackets, e.g. 'Protects only risk staff (LC 1107(b))'. Prefix inferences with 'Inference:'."
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["url", "title"],
+        "additionalProperties": false,
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "title": { "type": "string", "description": "Link text; mark third-party summaries with '(secondary)'." }
+        }
+      }
+    },
+    "last_verified": {
+      "anyOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }],
+      "description": "Date every source was checked against the live text. null = unverified."
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "The pattern is enforced even by validators that treat 'format' as an annotation only."
+    },
+    "channel": {
+      "type": "object",
+      "required": ["type", "name"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "enum": ["internal", "authority", "public"], "description": "authority = any government body (regulator, prosecutor, legislature)." },
+        "name": { "type": "string", "description": "The recipient as the law words it; name a specific body only if an official source does." },
+        "url": { "type": "string", "format": "uri" },
+        "anonymous": { "type": "boolean", "description": "Omit if the law is silent or leaves it to national law." },
+        "note": { "type": "string", "description": "Conditions or eligibility, e.g. 'Only if a condition in Art 15(1) is met'." }
+      }
+    }
+  }
+}
