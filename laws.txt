@@ -2,9 +2,16 @@ EU AI Act
 - https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 - "The AI Act is the first-ever legal framework on AI"
 - "The aim of the rules is to foster trustworthy AI in Europe."
-- Risk-based approach; {Unacceptable|High|Limited|Minimal} Risk
-- Whistleblower tool; allows whisteblowing to the AI Office; https://ai-act-whistleblower.integrityline.app/; "You can submit your report anonymously in any EU language together with supporting documents using the secure inbox in the tool."
+- Risk-based approach; {Unacceptable,High,Limited,Minimal} Risk
+- Whistleblower tool; allows anon whisteblowing to the AI Office; https://ai-act-whistleblower.integrityline.app/; "You can submit your report anonymously in any EU language together with supporting documents using the secure inbox in the tool."
 - Search for "whistleblower" under AI Act Explorer (https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-172) returned Recital 172, which itself relates to Article 87:
 -- 'Article 87: Reporting of infringements and protection of reporting persons': Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
 -- 'Recital 172': Persons acting as whistleblowers on the infringements of this Regulation should be protected under the Union law. Directive (EU) 2019/1937 of the European Parliament and of the Council(54)should therefore apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
 
+UK
+- search for any UK AI law returns https://bratby.law/uk-ai-regulation-what-the-law-says/ dated 2026.04.10: "The Conservative Government White Paper of 2023 set out a pro-innovation framework based on existing law and existing regulators. Labour, eighteen months on, has not deviated."
+- and then on gov.uk dated 2024.02.06: https://www.gov.uk/government/publications/implementing-the-uks-ai-regulatory-principles-initial-guidance-for-regulators/implementing-the-uks-ai-regulatory-principles-initial-guidance-for-regulators
+- which states: "[This guidance] is not intended to be a prescriptive guide on implementation as the principles are voluntary and how they are considered is ultimately at regulators’ discretion."
+- search for uk ai whistleblower return (expected) generic whistleblower info page:
+- https://www.gov.uk/government/publications/information-for-whistleblowers/information-for-whistleblowers
+- apoorv agarwal writes on the lack of explicit uk ai legislation at https://www.coventry.ac.uk/research/research-blog/ai-whistleblowers/ and says "a comparative research of three jurisdictions, viz., the United States, the United Kingdom and the EU, is underway as part of my doctoral research at Coventry University" with link https://wp.coventry.domains/aagarwal/
