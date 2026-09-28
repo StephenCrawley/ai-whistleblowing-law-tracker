@@ -24,6 +24,11 @@ China
 - as a general policy there is a push for broad AI adoption across the economy
 - no specific whistleblower protections except cash incentives for reports to regulatory bodies, but nothing specific to employee whistleblowing. again, seems this mostly covers content violations
 
-Links
+US
+- no federal AI law; mostly state level
+- Proposed bipartisan AI Whistleblower Protection Act introduced but still in flight
+- California SB 53 mandates whistleblower protections; most targetted protections for frontier lab safety; non gag clauses; mandates internal anonymous channels for whistleblowing
+
+Helpful Links
 https://ai-law-tracker.com/
  
