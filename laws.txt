@@ -1,4 +1,5 @@
-EU AI Act
+EU 
+- AI Act - unified body of legislation
 - https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 - "The AI Act is the first-ever legal framework on AI"
 - "The aim of the rules is to foster trustworthy AI in Europe."
@@ -15,6 +16,14 @@ UK
 - search for uk ai whistleblower return (expected) generic whistleblower info page:
 - https://www.gov.uk/government/publications/information-for-whistleblowers/information-for-whistleblowers
 - apoorv agarwal writes on the lack of explicit uk ai legislation at https://www.coventry.ac.uk/research/research-blog/ai-whistleblowers/ and says "a comparative research of three jurisdictions, viz., the United States, the United Kingdom and the EU, is underway as part of my doctoral research at Coventry University" with link https://wp.coventry.domains/aagarwal/
+- also this? https://bills.parliament.uk/bills/3942; Artificial Intelligence (Regulation) Bill [HL]; not moved since 2025.03.04 it seems. small doc; establshes an AI authority; some mundane mentions of transparency, no specific mention of whistleblower protections
+
+China
+- no single AI legislatative framework
+- rules built around sectors, primarily content controls
+- as a general policy there is a push for broad AI adoption across the economy
+- no specific whistleblower protections except cash incentives for reports to regulatory bodies, but nothing specific to employee whistleblowing. again, seems this mostly covers content violations
 
 Links
 https://ai-law-tracker.com/
+ 
