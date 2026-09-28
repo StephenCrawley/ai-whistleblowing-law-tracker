@@ -1,6 +1,6 @@
 # Source texts
 
-Source texts for the law entries in data/laws/. All retrieved 2026-09-28.
+Source texts for the law entries in data/laws/. Retrieved 2026-09-28 unless a file says otherwise.
 
 **These are working copies, not authoritative.** Always check the live source before marking an entry `verified`.
 **Official sources only.** Every file is a verbatim extract (converted from HTML or PDF to plain text) of a text published by a legislature, government or official journal. Facts in the file headers, such as signing dates and bill status, also come from official pages, which are listed in the manifest. Third-party summaries, trackers and law-firm articles may be used to find sources but are never kept or cited here.

@@ -59,6 +59,19 @@
     era-47b.html: 113ba42db2dda2022000e62827a98a7305913aa231763a6bea9f44b9d22dbf89
     era-103a.html: 8754d3fc5b8ca4eca25e6940daef31627db8e5c4bf6af95727b63cdf6d0e9ae4
 
+- id: uk-era-1996-ss48-49-remedies
+  file: uk-era-1996-ss48-49-remedies.txt
+  title: UK Employment Rights Act 1996, s 48 (complaints to employment tribunals) and s 49 (remedies)
+  url:
+    - https://www.legislation.gov.uk/ukpga/1996/18/section/48
+    - https://www.legislation.gov.uk/ukpga/1996/18/section/49
+  retrieved: 2026-09-29
+  method: fetched
+  license: Crown copyright; Open Government Licence v3.0
+  raw_sha256:
+    era-48.html: d8896ae0cb0ef7462a34746498d04c1507be66ff48bbd98202b0f1099cba940a
+    era-49.html: bd0fb958e73693867ae62a07441341265610619cd81a4b1351b132ef225b1580
+
 - id: uk-prescribed-persons-list
   file: uk-prescribed-persons-list.txt
   title: "GOV.UK guidance - Whistleblowing: list of prescribed people and bodies (updated 15 September 2026)"
