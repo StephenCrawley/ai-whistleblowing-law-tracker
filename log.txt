@@ -1,4 +1,6 @@
 2026.09.28
+23:45 schema draft
+23:07 copied legislative texts as static reference
 21:25 added China and US sections to laws.txt
 16:59 prelim UK resarch added
 16:25 created laws.txt and added preliminary research on EU AI Act and related whistleblower protections and tooling
