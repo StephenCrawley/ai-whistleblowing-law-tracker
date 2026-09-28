@@ -15,3 +15,6 @@ UK
 - search for uk ai whistleblower return (expected) generic whistleblower info page:
 - https://www.gov.uk/government/publications/information-for-whistleblowers/information-for-whistleblowers
 - apoorv agarwal writes on the lack of explicit uk ai legislation at https://www.coventry.ac.uk/research/research-blog/ai-whistleblowers/ and says "a comparative research of three jurisdictions, viz., the United States, the United Kingdom and the EU, is underway as part of my doctoral research at Coventry University" with link https://wp.coventry.domains/aagarwal/
+
+Links
+https://ai-law-tracker.com/
