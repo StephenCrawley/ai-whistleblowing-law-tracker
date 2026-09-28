@@ -1,0 +1,10 @@
+EU AI Act
+- https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+- "The AI Act is the first-ever legal framework on AI"
+- "The aim of the rules is to foster trustworthy AI in Europe."
+- Risk-based approach; {Unacceptable|High|Limited|Minimal} Risk
+- Whistleblower tool; allows whisteblowing to the AI Office; https://ai-act-whistleblower.integrityline.app/; "You can submit your report anonymously in any EU language together with supporting documents using the secure inbox in the tool."
+- Search for "whistleblower" under AI Act Explorer (https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-172) returned Recital 172, which itself relates to Article 87:
+-- 'Article 87: Reporting of infringements and protection of reporting persons': Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+-- 'Recital 172': Persons acting as whistleblowers on the infringements of this Regulation should be protected under the Union law. Directive (EU) 2019/1937 of the European Parliament and of the Council(54)should therefore apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+

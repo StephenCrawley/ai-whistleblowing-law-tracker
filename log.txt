@@ -1,0 +1,4 @@
+2026.09.28
+16:25 created laws.txt and added preliminary research on EA AI Act and related whistleblower protections and tooling
+16:11 plan written and project setup
+
