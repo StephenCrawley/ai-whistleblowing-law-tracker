@@ -1,20 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
 const laws = await getCollection('laws');
 ---
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>AI Whistleblower Law Tracker</title>
-  </head>
-  <body>
-    <h1>AI Whistleblower Law Tracker</h1>
-    <ul>
-      {laws.map((law) => (
-        <li><a href={`/laws/${law.id}/`}>{law.data.law}</a> ({law.data.jurisdiction})</li>
-      ))}
-    </ul>
-  </body>
-</html>
-
+<Base title="AI Whistleblower Law Tracker">
+  <h1>AI Whistleblower Law Tracker</h1>
+  <ul>
+    {laws.map((law) => (
+      <li><a href={`/laws/${law.id}/`}>{law.data.law}</a> ({law.data.jurisdiction})</li>
+    ))}
+  </ul>
+</Base>
