@@ -1,0 +1,32 @@
+id: us-ct-sb5-2026
+jurisdiction: US-CT
+law: Connecticut Public Act 26-15 (SB 5, 2026)
+section: Section 2
+status: enacted
+effective_date: "2026-10-01"
+ai_specific: true
+summary: Frontier AI developers may not have policies or contracts that allow retaliation against whistleblowing employees, including safety staff reporting catastrophic risk inside the company. Large developers must set up an anonymous internal process by 1 January 2027. Enforced by the Attorney General.
+who_is_protected: Any employee of a frontier developer for reports covered by the general whistleblower statute (CGS 31-51m); covered employees (safety-risk staff) for catastrophic-risk reports.
+disclosures_covered: Suspected violations of law reported to a public body (CGS 31-51m(b)); and, for covered employees, a reasonable belief that the developer poses a specific and substantial danger to public health or safety from catastrophic risk.
+protections:
+  - anti_retaliation  # Sec 2(b) bans rules, policies or contracts that allow retaliation
+reporting_channels:
+  - type: internal
+    name: A person with authority over the employee, or a covered employee with authority to investigate
+  - type: internal
+    name: Anonymous internal process
+    anonymous: true
+    note: Large frontier developers only; required from 1 January 2027 (Sec 2(c)(1))
+  - type: authority
+    name: Any state or federal public body
+    note: Only for reports of violations of law, under CGS 31-51m(b)
+limits:
+  - Enforced only by the Attorney General, with fines of up to $1,000 per violation; an employee's own claim exists only under CGS 31-51m(c) (Sec 2(e))
+  - Catastrophic-risk reports are protected only when made to people inside the company (Sec 2(b)(2))
+  - The anonymous internal process is not required until 1 January 2027 (Sec 2(c)(1))
+sources:
+  - url: https://www.cga.ct.gov/2026/act/pa/pdf/2026PA-00015-R00SB-00005-PA.pdf
+    title: Public Act 26-15 (SB 5, 2026)
+  - url: https://www.cga.ct.gov/current/pub/chap_557.htm#sec_31-51m
+    title: Connecticut General Statutes § 31-51m
+last_verified: "2026-09-30"

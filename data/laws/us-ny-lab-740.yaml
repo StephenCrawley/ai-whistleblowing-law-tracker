@@ -1,0 +1,29 @@
+id: us-ny-lab-740
+jurisdiction: US-NY
+law: New York Labor Law § 740
+section: § 740
+status: enacted
+ai_specific: false
+summary: New York's general whistleblower law protects employees and contractors who report law breaches or substantial and specific dangers to public health or safety. Not AI-specific; the RAISE Act, New York's frontier-AI law, dropped its employee protections before passage.
+who_is_protected: Employees, former employees, and individual independent contractors working for the employer's business (§ 740(1)(a)).
+disclosures_covered: An activity, policy or practice the employee reasonably believes breaks a law, rule or regulation, or poses a substantial and specific danger to public health or safety (§ 740(2)(a)).
+protections:
+  - anti_retaliation
+  - individual_remedy
+reporting_channels:
+  - type: internal
+    name: Supervisor
+  - type: authority
+    name: A public body, including Congress, courts, regulators and law enforcement
+    note: Only after first telling a supervisor and giving the employer a chance to fix it, unless an exception applies (§ 740(3))
+limits:
+  - The RAISE Act's employee protections (draft A6453-A § 1422) were dropped from the version signed as Chapter 699 of 2025 and from its replacement, Chapter 96 of 2026 (nysenate.gov bill texts)
+  - Reports to a public body must usually go to a supervisor first (§ 740(3))
+sources:
+  - url: https://www.nysenate.gov/legislation/laws/LAB/740
+    title: New York Labor Law § 740
+  - url: https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A
+    title: RAISE Act, A6453-A (earlier version with employee protections)
+  - url: https://www.nysenate.gov/legislation/bills/2025/S8828
+    title: RAISE Act chapter amendment, S8828 (Chapter 96 of 2026)
+last_verified: "2026-09-30"

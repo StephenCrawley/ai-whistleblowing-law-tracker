@@ -1,0 +1,35 @@
+id: us-ca-sb53-2025
+jurisdiction: US-CA
+law: California SB 53 (2025)
+section: Labor Code §§ 1107–1107.2
+status: enacted
+effective_date: "2026-01-01"
+ai_specific: true
+summary: Frontier AI developers may not gag or retaliate against staff who handle safety risks for reporting catastrophic risks or breaches of the Act to the Attorney General, federal authorities or managers. Large developers must run an anonymous internal channel with monthly updates.
+who_is_protected: Covered employees of frontier AI developers, meaning staff responsible for assessing, managing or addressing the risk of critical safety incidents.
+disclosures_covered: Information the employee has reasonable cause to believe shows a specific and substantial danger to public health or safety from catastrophic risk, or a breach of the Act's rules for frontier developers.
+protections:
+  - anti_retaliation
+  - nda_override
+  - individual_remedy
+reporting_channels:
+  - type: authority
+    name: California Attorney General
+  - type: authority
+    name: A federal authority
+  - type: authority
+    name: Whistleblower hotline (Labor Code § 1102.7)
+  - type: internal
+    name: A person with authority over the employee, or a covered employee with authority to investigate
+  - type: internal
+    name: Anonymous internal process
+    anonymous: true
+    note: Large frontier developers only; monthly status updates to the reporter (LC 1107.1(e)(1))
+limits:
+  - Protects only staff responsible for safety-incident risk; other employees rely on Labor Code § 1102.5 (LC 1107(b), 1107.1(j)(1))
+  - Danger reports must involve catastrophic risk, meaning over 50 deaths or serious injuries, or over $1bn damage, from one incident (LC 1107(a)(1))
+  - Applies only to developers training models with over 10^26 operations (Bus. & Prof. Code 22757.11(h)–(i))
+sources:
+  - url: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53
+    title: SB 53 (2025), chaptered text
+last_verified: "2026-09-30"

@@ -1,0 +1,30 @@
+id: us-s1792-2025
+jurisdiction: US
+law: AI Whistleblower Protection Act (S.1792, 119th Congress)
+section: Section 3
+status: proposed
+ai_specific: true
+summary: A bill, not law. Would bar employers from retaliating against current or former employees and contractors who report AI security vulnerabilities or AI violations to regulators, Congress or someone at work with authority to act, and would stop contracts waiving these rights.
+who_is_protected: Employees and independent contractors, including former ones (§ 2(6)).
+disclosures_covered: Conduct reasonably believed to be a breach of federal law in AI development or use, a failure to respond to a substantial and specific AI danger to public safety, health or national security, or an AI security vulnerability.
+protections:
+  - anti_retaliation
+  - nda_override
+  - individual_remedy
+reporting_channels:
+  - type: authority
+    name: Appropriate regulatory official, the Attorney General, or a regulatory or law enforcement agency
+  - type: authority
+    name: Any Member or committee of Congress
+  - type: internal
+    name: A supervisor, or someone at the employer with authority to investigate or act
+limits:
+  - Not law; referred to the Senate HELP Committee on 15 May 2025 with no later action (govinfo bill status, 26 September 2026)
+  - Complaints go first to the Secretary of Labor; court action only if the Secretary has not decided in time (§ 3(b)(1))
+  - "Inference: no protected route to the media or the public (none listed in § 3(a))"
+sources:
+  - url: https://www.govinfo.gov/content/pkg/BILLS-119s1792is/html/BILLS-119s1792is.htm
+    title: S.1792, introduced text (govinfo)
+  - url: https://www.congress.gov/bill/119th-congress/senate-bill/1792
+    title: S.1792 bill status (congress.gov)
+last_verified: "2026-09-30"

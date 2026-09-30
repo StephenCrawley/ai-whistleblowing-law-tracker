@@ -1,0 +1,35 @@
+id: uk-era-1996-part-iva
+jurisdiction: UK
+law: Employment Rights Act 1996 (Part IVA, inserted by the Public Interest Disclosure Act 1998)
+section: Part IVA (ss 43A–43L), s 47B, s 103A
+status: enacted
+effective_date: "1999-07-02"
+ai_specific: false
+summary: Protects workers from detriment or dismissal for public-interest disclosures about crimes, legal breaches, dangers to health or safety, environmental damage or cover-ups. Not AI-specific. Reports to the employer or a prescribed regulator qualify; wider disclosure only under strict conditions.
+who_is_protected: Workers, a wider group than employees, extended to agency workers, some contractors and trainees (s 43K).
+disclosures_covered: Information the worker reasonably believes is in the public interest and shows a crime, a legal breach, a danger to health or safety, environmental damage, sexual harassment, or a cover-up of these (s 43B).
+protections:
+  - anti_retaliation
+  - nda_override
+  - individual_remedy
+reporting_channels:
+  - type: internal
+    name: Employer
+  - type: authority
+    name: Prescribed persons (listed regulators)
+    note: Only if the worker reasonably believes the information is substantially true (s 43F)
+  - type: public
+    name: Other persons, including the media
+    note: Only under the strict conditions in ss 43G–43H
+limits:
+  - Covers England, Wales and Scotland only; Northern Ireland has separate legislation (legislation.gov.uk extent)
+  - No AI-specific body is among the prescribed regulators (GOV.UK prescribed persons list, 15 September 2026)
+  - Not a qualifying disclosure if making it is itself a criminal offence (s 43B(3))
+sources:
+  - url: https://www.legislation.gov.uk/ukpga/1996/18/part/IVA
+    title: Employment Rights Act 1996, Part IVA
+  - url: https://www.legislation.gov.uk/ukpga/1996/18/section/48
+    title: Employment Rights Act 1996, s 48 (tribunal complaints)
+  - url: https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2/whistleblowing-list-of-prescribed-people-and-bodies
+    title: "Whistleblowing: list of prescribed people and bodies (GOV.UK)"
+last_verified: "2026-09-30"
