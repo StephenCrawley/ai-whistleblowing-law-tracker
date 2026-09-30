@@ -12,7 +12,7 @@ const laws = await getCollection('laws');
     <h1>AI Whistleblower Law Tracker</h1>
     <ul>
       {laws.map((law) => (
-        <li>{law.data.law} ({law.data.jurisdiction})</li>
+        <li><a href={`/laws/${law.id}/`}>{law.data.law}</a> ({law.data.jurisdiction})</li>
       ))}
     </ul>
   </body>

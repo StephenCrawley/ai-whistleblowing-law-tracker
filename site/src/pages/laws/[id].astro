@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const laws = await getCollection('laws');
+  return laws.map((law) => ({ params: { id: law.id }, props: { law } }));
+}
+
+const { law } = Astro.props;
+const d = law.data;
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{d.law}</title>
+  </head>
+  <body>
+    <p><a href="/">All laws</a></p>
+    <h1>{d.law}</h1>
+    <p>{d.section} · {d.jurisdiction} · {d.status}</p>
+    <p>{d.summary}</p>
+
+    <h2>Sources</h2>
+    <ul>
+      {d.sources.map((s) => <li><a href={s.url}>{s.title}</a></li>)}
+    </ul>
+    <p>Last verified: {d.last_verified ?? 'not yet verified'}</p>
+  </body>
+</html>
+
