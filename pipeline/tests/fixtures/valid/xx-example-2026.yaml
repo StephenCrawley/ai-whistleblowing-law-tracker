@@ -1,0 +1,22 @@
+# Fake entry used only to test the validator. Not a real law.
+id: xx-example-2026
+jurisdiction: XX
+law: Example Act (2026)
+section: Section 1
+status: enacted
+effective_date: "2026-01-01"
+ai_specific: true
+summary: Fake summary for testing.
+who_is_protected: Fake description of who is protected.
+disclosures_covered: Fake description of what disclosures are covered.
+protections:
+  - anti_retaliation
+reporting_channels:
+  - type: internal
+    name: Employer
+limits:
+  - Fake limit (s 1)
+sources:
+  - url: https://example.org/
+    title: Example source
+last_verified: null
