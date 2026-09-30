@@ -1,0 +1,39 @@
+id: eu-ai-act-2024
+jurisdiction: EU
+law: EU AI Act (2024)
+section: Article 87
+status: enacted
+effective_date: "2026-08-02"
+ai_specific: true
+summary: Workers who report breaches of the AI Act get the protections of the EU Whistleblowing Directive. The AI Office runs an anonymous reporting tool.
+who_is_protected: Workers, Self-employed (Consultants/Contractors), Shareholders and Board members, Former Staff.
+disclosures_covered: Breaches of the AI Act.
+protections:
+  - anti_retaliation
+  - confidentiality
+  - nda_override
+reporting_channels:
+  - type: authority
+    name: AI Act Whistleblower Tool
+    url: https://ai-act-whistleblower.integrityline.app/
+    anonymous: true
+    note: Only for general-purpose AI providers and systems within the AI Office's remit
+  - type: internal
+    name: Employer's internal reporting channel
+    note: Private employers must provide one only if they have 50 or more workers (Directive Art 8(3))
+  - type: authority
+    name: National competent authority
+    note: Designated by each Member State (Directive Art 11(1))
+  - type: public
+    name: Public disclosure
+    note: Only if a condition in Directive Art 15(1) is met
+limits:
+  - Only covers information obtained through work (Directive Art 4(1))
+  - The reporter must have reasonable grounds to believe the information is true (Directive Art 6(1)(a))
+  - Public disclosure is protected only if earlier reports got no response, or there is imminent danger or a risk of retaliation (Directive Art 15(1))
+sources:
+  - url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+    title: EU AI Act full regulation
+  - url: https://eur-lex.europa.eu/eli/dir/2019/1937/oj
+    title: Whistleblowing Directive (EU) 2019/1937
+last_verified: "2026-09-30"
