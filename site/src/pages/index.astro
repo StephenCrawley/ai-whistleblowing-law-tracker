@@ -1,17 +1,20 @@
 ---
-
+import { getCollection } from 'astro:content';
+const laws = await getCollection('laws');
 ---
-
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>AI Whistleblower Law Tracker</title>
+  </head>
+  <body>
+    <h1>AI Whistleblower Law Tracker</h1>
+    <ul>
+      {laws.map((law) => (
+        <li>{law.data.law} ({law.data.jurisdiction})</li>
+      ))}
+    </ul>
+  </body>
 </html>
+
