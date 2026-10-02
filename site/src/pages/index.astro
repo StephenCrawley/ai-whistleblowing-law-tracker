@@ -2,13 +2,63 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 const laws = await getCollection('laws');
+const countries = [...new Set(laws.map((law) => law.data.jurisdiction.split('-')[0]))].sort();
 ---
 <Base title="AI Whistleblower Law Tracker">
   <h1>AI Whistleblower Law Tracker</h1>
-  <ul>
+  <form id="filters" hidden>
+    <label>Jurisdiction
+      <select name="country">
+        <option value="">All</option>
+        {countries.map((c) => <option>{c}</option>)}
+      </select>
+    </label>
+    <label>Status
+      <select name="status">
+        <option value="">All</option>
+        <option value="enacted">Enacted</option>
+        <option value="proposed">Proposed</option>
+      </select>
+    </label>
+    <label><input type="checkbox" name="ai" /> AI-specific only</label>
+  </form>
+  <ul id=laws>
     {laws.map((law) => (
-      <li><a href={`/laws/${law.id}/`}>{law.data.law}</a> ({law.data.jurisdiction})</li>
+      <li
+      data-country={law.data.jurisdiction.split('-')[0]}
+      data-status={law.data.status}
+      data-ai={String(law.data.ai_specific)}
+      >
+        <a href={`/laws/${law.id}/`}>{law.data.law}</a> ({law.data.jurisdiction})
+      </li>
     ))}
   </ul>
+  <p id="no-match" hidden>No laws match these filters.</p>
   <p>An illustrative selection, not a complete list. Not covered, among others: China, where we found no AI-specific whistleblower law.</p>
 </Base>
+<script>
+  const form = document.querySelector<HTMLFormElement>('#filters')!;
+  const items = document.querySelectorAll<HTMLLIElement>('#laws li');
+  const noMatch = document.querySelector<HTMLElement>('#no-match')!;
+
+  function applyFilters(): void {
+    const chosen = new FormData(form);
+    const country = chosen.get('country');
+    const status = chosen.get('status');
+    const aiOnly = chosen.has('ai');
+
+    let shown = 0;
+    for (const item of items) {
+      const matches =
+        (!country || item.dataset.country === country) &&
+        (!status || item.dataset.status === status) &&
+        (!aiOnly || item.dataset.ai === 'true');
+      item.hidden = !matches;
+      if (matches) shown++;
+    }
+    noMatch.hidden = shown > 0;
+  }
+
+  form.addEventListener('change', applyFilters);
+  form.hidden = false;
+</script>
