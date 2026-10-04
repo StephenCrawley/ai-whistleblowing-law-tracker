@@ -1,0 +1,5 @@
+- name: Deploy website
+  hosts: web_server
+  become: true
+  roles:
+    - base
