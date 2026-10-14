@@ -1,0 +1,15 @@
+- name: Copy ssh hardening config
+  ansible.builtin.copy:
+    owner: root
+    group: root
+    mode: "0644"
+    content: |
+      PermitRootLogin no
+      PasswordAuthentication no
+      KbdInteractiveAuthentication no
+      AllowUsers {{ admin_user }}
+      LogLevel VERBOSE
+    dest: /etc/ssh/sshd_config.d/00-hardening.conf
+    validate: /usr/sbin/sshd -t -f %s
+    backup: true
+  notify: Reload ssh config
