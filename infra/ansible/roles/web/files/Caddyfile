@@ -1,0 +1,9 @@
+aiwhistleblowing.org {
+        root * /srv/site
+        file_server
+        encode zstd gzip
+}
+
+www.aiwhistleblowing.org {
+        redir https://aiwhistleblowing.org{uri} permanent
+}

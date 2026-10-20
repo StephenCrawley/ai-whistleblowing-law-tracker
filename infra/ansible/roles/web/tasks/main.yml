@@ -1,0 +1,19 @@
+- name: Install caddy
+  ansible.builtin.apt:
+    name: caddy
+    state: present
+
+- name: Copy Caddyfile to server
+  ansible.builtin.copy:
+    src: Caddyfile
+    dest: /etc/caddy/Caddyfile
+    owner: root
+    group: root
+    mode: "0644"
+    validate: caddy validate --config="%s" --adapter=caddyfile
+  notify: Reload Caddy ## caddy needs to be a systemd service
+
+- name: Copy Astro dist/ to server
+  ansible.builtin.copy:
+    src: "{{ playbook_dir }}/../../site/dist/"
+    dest: /srv/site
