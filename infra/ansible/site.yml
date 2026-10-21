@@ -5,4 +5,6 @@
     - base
     - ssh
     - firewall
-    - web
+    - role: web
+      tags:
+        - web
