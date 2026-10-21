@@ -1,9 +1,24 @@
 aiwhistleblowing.org {
-        root * /srv/site
-        file_server
-        encode zstd gzip
+	# Security Headers
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains;"
+
+		Content-Security-Policy "default-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+
+		X-Content-Type-Options "nosniff"
+
+		X-Frame-Options "DENY"
+
+		Referrer-Policy "no-referrer"
+
+		Permissions-Policy "camera=(), microphone=(), geolocation=(), fullscreen=(), payment=()"
+	}
+
+	root * /srv/site
+	file_server
+	encode zstd gzip
 }
 
 www.aiwhistleblowing.org {
-        redir https://aiwhistleblowing.org{uri} permanent
+	redir https://aiwhistleblowing.org{uri} permanent
 }
