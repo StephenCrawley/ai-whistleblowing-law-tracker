@@ -27,8 +27,8 @@ Short records of technical choices and their trade-offs.
 - **No schema in the Astro content collection.** `data/schema.json`, checked by the Python validator, is the single source of truth; a second (Zod) schema in the site would have to be kept in sync with it.
 - **Filters hide pre-rendered items; no data is fetched.** All entries are in the HTML. Without JavaScript (e.g. Tor Browser's Safest mode) visitors see the full list, and the filter controls stay hidden.
 - **Scripts are never inlined** (`assetsInlineLimit: 0` in `astro.config.mjs`). Astro inlines small scripts by default, which a Content-Security-Policy of `script-src 'self'` would block. External script files keep the CSP strict, with no `'unsafe-inline'` or hashes.
-- **Node LTS pinned in `site/.nvmrc`,** so local builds and CI use the same version.
+- **Node LTS pinned in `site/.nvmrc`,** so local builds and CI (once set up) use the same version.
 - **Supply-chain controls for npm:**
-  - `package-lock.json` pins every package, and CI installs with `npm ci`, which uses exactly the lockfile.
+  - `package-lock.json` pins every package, and CI installs should use `npm ci`, which uses exactly the lockfile.
   - `allowScripts` in `package.json` lets only `esbuild` run an install script.
   - The `^` range on `astro` only affects `npm install`, never `npm ci`.
