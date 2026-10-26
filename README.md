@@ -6,12 +6,20 @@ NB: this is a personal project and is not affiliated with any organization. If y
 
 Work in progress.
 
-- Done: six law entries checked against official sources; JSON Schema and validator; Astro site with filters and a strict-CSP-ready build; Ansible base role (security updates, time sync, admin user).
-- Next: SSH hardening, firewall, Caddy with security headers, HTTPS deployment, CI/CD, a local open-weight LLM drafting pipeline with provenance, a threat model.
+- Done: 
+    - Six law entries checked against official sources
+    - JSON Schema and validator
+    - Astro site with filters and a strict-CSP-ready build
+    - Ansible base role (security updates, time sync, admin user)
+    - SSH hardening
+    - Firewall
+    - Caddy with security headers
+    - HTTPS deployment
+- Next: CI/CD, a local open-weight LLM drafting pipeline with provenance, a threat model.
 
 ## Website
 
-aiwhistleblowing.org. (Not live yet.)
+aiwhistleblowing.org
 
 ## What
 
